@@ -53,7 +53,7 @@ jobs:
       matrix:
         language: [ 'csharp' ]
     
-       steps:
+    steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
